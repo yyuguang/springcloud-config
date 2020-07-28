@@ -1,0 +1,3 @@
+config:
+    info: "dev branch"
+    version: "1.0"
